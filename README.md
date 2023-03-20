@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there 👋 my name is Aboaba Akorede
 
-# Aboaba Akorede
+welcome to my github profile
 
 ## About Me
 
