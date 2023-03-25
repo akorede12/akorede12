@@ -14,13 +14,20 @@ I'm a blockchain developer with experience in building decentralized application
 - React/Next.js
 - Hardhat
 
+## Smart contracts 
+Here are some of my recent smart contracts 
+-[Election Contract](https://github.com/akorede12/My-Smart-contracts/tree/main/Election%20contracts): A smart contract for voting and creating elections
+-[Nfticks Contract](https://github.com/akorede12/My-Smart-contracts/tree/main/Nfticks%20contract): Smart contract for NFT events platform
+-[Payment Contract](https://github.com/akorede12/My-Smart-contracts/tree/main/Payment%20%26%20verification): A simple contract to accept payment, and check user payments 
+
 ## Projects
 
-Here are some of the blockchain projects I've worked on:
+Here are some of the blockchain projects I'm working on:
 
 - [OnChainVote](https://github.com/akorede12/onchainVote): Secure and trusted elections on the blockchain.
 - [NFTicks](https://github.com/akorede12/NFTicks/tree/test): The NFTick.io is an NFT marketplace for event tickets, exposing NFTick buyers to their favourite event.
 - [Zell](https://github.com/akorede12/Zell): Zell is an NFT membership platform for e-commerce sellers.
+
 
 ## Contact Me
 
