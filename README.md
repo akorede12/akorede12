@@ -4,8 +4,8 @@ welcome to my github profile
 
 ## About Me
 
-I'm an Experienced Fullstack (Web3) Blockchain Developer with over four years of expertise in designing, deploying, and optimizing Ethereum smart contracts,
-Solana smart contracts and decentralized applications. Skilled in `Solidity`, `Rust`, `JavaScript`, and cutting-edge Web3 technologies, with a proven track
+I'm an Experienced Fullstack (Web3) Blockchain Developer with over four years of expertise in designing, deploying, and optimizing Ethereum smart contracts and
+Solana smart contracts. I build decentralized web and mobile application using that interact with the blockchain. Skilled in `NextJs`, `ReactJs`, `Solidity`, `Rust`, `JavaScript`, and cutting-edge Web3 technologies, with a proven track
 record of building in `blockchain ecosystems`, enhancing `user experience`, and ensuring long-term product `scalability`. 
 
 An `AI enthusiast` and `Prompt Engineer` bullish about the advantages AI could give the average human. 
