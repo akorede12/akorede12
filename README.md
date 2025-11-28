@@ -2,7 +2,7 @@
 
 welcome to my github profile
 
-[Visit my website](akorede.qzz.io/)
+[Visit my website](https://akorede.qzz.io/)
 
 ## About Me
 
