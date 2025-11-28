@@ -2,6 +2,8 @@
 
 welcome to my github profile
 
+[Visit my website](akorede.qzz.io/)
+
 ## About Me
 
 I'm an Experienced Fullstack (Web3) Blockchain Developer with over four years of expertise in designing, deploying, and optimizing Ethereum smart contracts and
